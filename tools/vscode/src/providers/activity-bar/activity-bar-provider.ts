@@ -49,4 +49,3 @@ export async function activateActivityBar(
 
   return [...outlineCommands, ...taskConfigCommands, ...logsCommands];
 }
-

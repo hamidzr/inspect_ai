@@ -78,4 +78,3 @@ By default, Inspect uses a `max_connections` value of 10. You can increase this 
 
 - [Reasoning](reasoning.qmd) documents the additional options and data available for reasoning models.
  
-

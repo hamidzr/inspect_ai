@@ -228,4 +228,3 @@ function formatPrettyDateTime(date: Date) {
   // For other years, include the year
   return format(date, "MMM d yyyy, h:mmaaa");
 }
-
